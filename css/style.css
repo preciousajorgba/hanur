@@ -338,6 +338,8 @@ a {
 .intro h1{
   justify-content: center;
   text-align:center;
+  font-size: 4vw;
+  font-weight: 400;
   text-rendering: optimizeLegibility;
   
 }
