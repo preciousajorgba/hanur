@@ -338,8 +338,6 @@ a {
 .intro h1{
   justify-content: center;
   text-align:center;
-  padding: 70px;
-  font-size: 2.5vw;
   text-rendering: optimizeLegibility;
   
 }
